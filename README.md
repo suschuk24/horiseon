@@ -4,8 +4,8 @@
 
 ## Below are my screenshots of the webpage
 
-![Screenshot 1](./assets/images/screenshot-1.png)
-![Screenshot 2](./assets/images/screenshot-2.png)
+![Screenshot 1](./assets/images/screenshot-1.PNG)
+![Screenshot 2](./assets/images/screenshot-2.PNG)
 
 ## Link to Deployed Site
 
